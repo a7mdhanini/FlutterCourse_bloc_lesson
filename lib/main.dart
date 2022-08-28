@@ -1,7 +1,9 @@
 import 'package:bloc_lesson/BlocStateManagmentTemplates/UI/UserUIScreen.dart';
-import 'package:bloc_lesson/BlocStateManagmentTemplates/bloc/user_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+
+import 'BlocStateManagmentTemplates/bloc/user_bloc.dart';
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -14,7 +16,7 @@ class MyApp extends StatelessWidget {
    --------------- Focus Here  -----------------------
      **/
       home: BlocProvider(
-        create: (BuildContext context) => UsersBloc(),
+        create: (context) => UserBloc(),
         child: MyBlocPage(),
       ),
     );
