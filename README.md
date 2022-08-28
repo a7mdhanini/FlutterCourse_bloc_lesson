@@ -1,16 +1,16 @@
 # bloc_lesson
 
-A new Flutter project.
+This code is part of Flutter Course By Muwaffaq Imam.
+
 
 ## Getting Started
+To get started do the folowing
+- Downlod or pull the code
+- Watch the video and understand it
+- Do what we did togathe in the video
 
-This project is a starting point for a Flutter application.
+#Course Link
 
-A few resources to get you started if this is your first Flutter project:
+- [Course Link Can be found here](https://docs.flutter.dev/get-started/codelab)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
