@@ -1,4 +1,4 @@
-import 'package:bloc_lesson/BlocStateManagmentTemplates/UI/UserUIScreen.dart';
+import 'package:bloc_lesson/BlocStateManagmentTemplates/presentation/pages/user_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
